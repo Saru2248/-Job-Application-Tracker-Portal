@@ -1,0 +1,36 @@
+# dependencies
+node_modules/
+**/node_modules/
+
+# caches
+.cache/
+**/.cache/
+
+# build
+dist/
+build/
+**/dist/
+**/build/
+
+# environment
+.env
+
+# archives
+*.zip
+*.rar
+*.7z
+
+# videos
+*.mp4
+*.mov
+*.avi
+
+# logs
+npm-debug.log*
+
+# editor
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
